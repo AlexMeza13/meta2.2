@@ -4,7 +4,7 @@
       <v-card-title>Acerca de: </v-card-title>
       <v-card-text>
         <v-avatar size="96" color="primary">
-          <v-icon size="56">mdi-movie-open</v-icon>
+          <v-icon size="56">mdi-video-vintage</v-icon>
         </v-avatar>
 
         <h1>Buscador de Peliculas con Api</h1>
